@@ -1,0 +1,1 @@
+This is a project to show the use of CSS flexbox on different screen sizes.
